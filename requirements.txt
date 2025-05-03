@@ -6,6 +6,6 @@ scikit-learn
 plotly
 torch
 transformers
-together-computing
+together-ai
 uuid
 werkzeug
