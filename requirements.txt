@@ -1,4 +1,4 @@
-streamlit==1.31.0
+streamlit==1.32.0
 streamlit-extras==0.3.2
 pandas
 numpy
@@ -7,6 +7,6 @@ plotly
 torch
 transformers
 werkzeug
-together==1.4.0 
-pillow>=7.1.0,<11
+together==1.5.7
+pillow==11.1.0
 
