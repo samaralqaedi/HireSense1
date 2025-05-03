@@ -1,4 +1,4 @@
-streamlit==1.32.0
+streamlit==1.31.0
 streamlit-extras==0.3.2
 pandas
 numpy
@@ -8,4 +8,4 @@ torch
 transformers
 werkzeug
 together==1.5.7
-pillow==11.2.1
+pillow==11.1.0
